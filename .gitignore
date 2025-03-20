@@ -13,9 +13,9 @@ atlassian*
 /pub/sitemap
 /pub/sitemap.xml
 /.idea
+/auth.json
 /.gitattributes
 /app/config_sandbox
-/app/etc/config.php
 /app/etc/env.php
 /app/code/Magento/TestModule*
 /lib/internal/flex/uploader/.actionScriptProperties
@@ -32,8 +32,6 @@ atlassian*
 /package.json
 /.php_cs
 /.php_cs.cache
-/.php-cs-fixer.php
-/.php-cs-fixer.cache
 /grunt-config.json
 /pub/media/*.*
 !/pub/media/.htaccess
@@ -60,11 +58,8 @@ atlassian*
 /pub/media/tmp/*
 !/pub/media/tmp/.htaccess
 /pub/media/captcha/*
-/pub/media/sitemap/*
-!/pub/media/sitemap/.htaccess
 /pub/static/*
 !/pub/static/.htaccess
-
 /var/*
 !/var/.htaccess
 /vendor/*
